@@ -2,12 +2,14 @@ body{
 	background-image: url('http://youandafteryou.com/wp-content/uploads/2018/01/blog-background.png');
 	background-repeat: no-repeat;
 	 padding-left: 5%;
+
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #F1F1F1;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px;
+   	text-align: center;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
